@@ -6,8 +6,6 @@ Servo servo1;
 Servo servo2;
 bool dance = false;
 
-#define FLEX_SENSOR_PIN 12
-
 // the setup routine runs on start and once when you press reset:
 void setup() {
   //change Name_Board_Here to something distinct and memorable -- this is the device name you will  see when Bluetooth paring
